@@ -1,0 +1,3 @@
+python-dotenv
+aiogram #python package helps you to connect with telegram
+openai 
